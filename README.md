@@ -1,4 +1,5 @@
-# AdventureWorks Cloud Migration and Analysis Pipeline
+# Seamless On-Prem to Azure Data Journey with Auto-Sync Pipeline
+
 
 ## Overview
 
