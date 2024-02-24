@@ -1,0 +1,1 @@
+# On-Prem-to-Azure-Data-Migration-with-Auto-Sync-Pipeline
