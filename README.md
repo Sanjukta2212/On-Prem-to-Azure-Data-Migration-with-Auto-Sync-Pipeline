@@ -4,6 +4,7 @@
 ## Overview
 
 This repository details the AdventureWorks database migration journey from an on-premises SQL Server Management Studio (SSMS) setup to a cloud-based solution using Microsoft Azure. The migration is accompanied by dynamic and insightful visualizations powered by Power BI. A robust pipeline ensures seamless data synchronization between the source database and Power BI reports.
+The detailed documentation along with screenshots is posted in the series of [Medium articles](https://medium.com/@sanjuktabaruah5/seamless-on-prem-to-azure-data-journey-with-auto-sync-pipeline-eecbe1a4a6f9).
 
 ## Major Tools and Services Used
 
@@ -31,3 +32,5 @@ The pipeline is designed to adapt to changes in the source database. It automati
 ## Repository Content
 
 This repository contains comprehensive documentation, sample codes, and configurations necessary to replicate the cloud migration and data analysis setup. Follow the provided guidance to create a similar environment tailored to your data needs.
+
+I have documented and posted every thing in details with all screenshots at this Medium Article
